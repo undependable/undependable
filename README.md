@@ -14,7 +14,7 @@
         💻 Use to Code
 </h2>
 <p align="left">
-        These are the technologies I'm familiar with ranked from most familiar with to least.
+        These are the technologies I'm familiar with.
 </p>
 
 <p align="center">
