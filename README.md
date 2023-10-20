@@ -3,15 +3,18 @@
         👋 Hey There!, I am Caasi 
 </h2>
 
-<p align="left"> 
-        I'm a 19-year-old from Norway passionate about programming and security. 
-        <br>Currently studying Computer Science with a little mix of Linguistics and Language Technology. 
-</p><br/>
+<div style="text-align: left;">
+    <p>
+        19-year-old from Norway who is deeply committed to the fields of programming and security. 
+        <br>
+        I am currently pursuing a degree in Computer Science, with a complementary focus on Linguistics and Language Technology.
+    </p>
 </div>
+<br>
 
 <div id="use to code">
 <h2 align="left">
-        💻 Use to Code
+        💻 Technologies I use
 </h2>
 <p align="left">
         These are the technologies I'm familiar with.
