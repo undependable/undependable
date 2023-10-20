@@ -4,7 +4,7 @@
 </h2>
 
 <p align="left"> 
-        I'm a 19-year-old boy from Norway passionate about programming and security. 
+        I'm a 19-year-old from Norway passionate about programming and security. 
         <br>Currently studying Computer Science with a little mix of Linguistics and Language Technology. 
 </p><br/>
 </div>
