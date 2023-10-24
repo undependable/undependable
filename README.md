@@ -1,6 +1,6 @@
 <div id="intro">
 <h2 align="left">
-        👋 Hey There!, I am Caasi 
+        👋 Hey There, I´m Caasi!
 </h2>
 
 <div style="text-align: left;">
