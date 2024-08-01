@@ -5,9 +5,9 @@
 
 <div style="text-align: left;">
     <p>
-        19-year-old from Norway who is deeply committed to the fields of programming and security. 
+        20-year-old from Norway who is deeply committed to the fields of programming and security. 
         <br>
-        I am currently pursuing a degree in Computer Science, with a complementary focus on Linguistics and Language Technology.
+        I am pursuing a degree in Computer Science!
     </p>
 </div>
 <br>
