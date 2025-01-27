@@ -41,13 +41,3 @@ I’m passionate about solving complex problems through clean, efficient, and sc
 - **Fast Learner**: Always eager to adopt new tools and technologies (like **Kotlin**, **Golang**, and **AI-driven development**) to stay ahead in the ever-evolving tech landscape.
 
 ---
-
-## 🔧 What I’m Looking For
-
-I’m seeking opportunities to contribute to impactful projects, particularly in the realms of **blockchain**, **distributed systems**, and **scalable backend architectures**. I’m excited to join a forward-thinking team where I can apply my skills, learn from experienced professionals, and grow as a developer.
-
----
-
-## 📬 Let’s Connect!
-
-If you’re looking for a motivated, detail-oriented, and tech-savvy individual who’s ready to tackle challenges head-on, let’s chat! I’m always open to new opportunities and collaborations.
