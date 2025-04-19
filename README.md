@@ -23,21 +23,3 @@ Here are the tools and technologies I work with to bring ideas to life:
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
----
-
-## 🚀 What Drives Me
-
-I’m passionate about solving complex problems through clean, efficient, and scalable code. Whether it’s building backend systems, diving into blockchain technology, or exploring the latest in cybersecurity, I thrive on challenges that push me to grow. My curiosity and love for learning keep me exploring new technologies and frameworks, like **Kotlin** and **Golang**, which I’ve recently added to my toolkit to build modern, high-performance applications.
-
----
-
-## 🌟 Why I Stand Out
-
-- **Versatile Skill Set**: Proficient in both frontend and backend technologies, with a strong foundation in **Java**, **Python**, **Kotlin**, and **Golang** for building robust, scalable systems.
-- **Database Expertise**: Experienced with both **MongoDB** and **MySQL**, enabling me to design and optimize databases for performance and reliability.
-- **Security-Minded**: Deeply interested in cybersecurity, ensuring that the systems I build are not only functional but also secure.
-- **Multilingual**: Fluent in English, Norwegian, Arabic, and German, which allows me to collaborate effectively in diverse, global teams.
-- **Fast Learner**: Always eager to adopt new tools and technologies (like **Kotlin**, **Golang**, and **AI-driven development**) to stay ahead in the ever-evolving tech landscape.
-
----
