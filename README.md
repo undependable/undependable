@@ -11,3 +11,5 @@ Overview of some languages that I've used over the years.
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br>
 </p>
+
+I've also done several bounties for fun over at [HackerOne](https://hackerone.com/extroverted)
